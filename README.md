@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Alyssa Flusser | Artificial Intelligence Engineer
 
-Aspiring AI Engineer with hands-on experience in analyzing data and building llms.
+Aspiring AI Engineer with hands-on experience in analyzing data and building LLMs.
 I focus on **clean code, scalable solutions, and continuous learning.**
 
 - 🎓 Computer Science at Penn State University
