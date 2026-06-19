@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Alyssa Flusser | Artificial Intelligence Engineer
+
+Aspiring AI Engineer with hands-on experience in analyzing data and building llms.
+I focus on **clean code, scalable solutions, and continuous learning.**
+
+- 🎓 Computer Science at Penn State University
