@@ -20,3 +20,19 @@ Aspiring AI Engineer with hands-on experience in analyzing data and building llm
 I focus on **clean code, scalable solutions, and continuous learning.**
 
 - 🎓 Computer Science at Penn State University
+- 💻 Interests: Web Development, Machine Learning
+- 🌱 Currently learning: Skikit-Learn, Seaborn
+- 📫 Reach me: alyssaflusser@gmail.com | linkedin.com/in/alyssa-flusser
+
+---
+
+### Technial Skills
+- **Languages:** Python | Java | JavaScript | C | C++ | LaTeX
+- **ML & Tools:** NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | Jupyter Notebook | SciPy | GitHub
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** linkedin.com/in/alyssa-flusser 
+- **Email:** alyssaflusser@gmail.com 
+
