@@ -28,7 +28,7 @@ I focus on **clean code, scalable solutions, and continuous learning.**
 
 ### Technial Skills
 - **Languages:** Python | Java | JavaScript | C | C++ | LaTeX
-- **ML & Tools:** NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | Jupyter Notebook | SciPy | GitHub
+- **ML & Tools:** NumPy | Pandas | Matplotlib | Seaborn | Scikit-Learn | Jupyter Notebook | SciPy | GitHub
 
 ---
 
