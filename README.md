@@ -33,6 +33,6 @@ I focus on **clean code, scalable solutions, and continuous learning.**
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** linkedin.com/in/alyssa-flusser 
-- **Email:** alyssaflusser@gmail.com 
+- **LinkedIn:** linkedin.com/in/alyssa-flusser
+- **Email:** alyssaflusser@gmail.com
 
