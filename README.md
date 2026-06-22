@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Alyssa Flusser | Artificial Intelligence Engineer
 
-Aspiring AI Engineer with hands-on experience in analyzing data and building LLMs.
+Aspiring AI Engineer with hands-on experience in analyzing data, machine learning, and AI-driven solutions.
 I focus on **clean code, scalable solutions, and continuous learning.**
 
 - 🎓 Computer Science at Penn State University
@@ -28,7 +28,7 @@ I focus on **clean code, scalable solutions, and continuous learning.**
 
 ### Technial Skills
 - **Languages:** Python | Java | JavaScript | C | C++ | LaTeX
-- **ML & Tools:** NumPy | Pandas | Matplotlib | Seaborn | Scikit-Learn | Jupyter Notebook | SciPy | GitHub
+- **ML & Tools:** NumPy | Pandas | Matplotlib | Seaborn | Scikit-Learn | Jupyter Notebook | SciPy
 
 ---
 
