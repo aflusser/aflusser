@@ -21,7 +21,7 @@ I focus on **clean code, scalable solutions, and continuous learning.**
 
 - 🎓 Computer Science at Penn State University
 - 💻 Interests: Web Development, Machine Learning
-- 🌱 Currently learning: Skikit-Learn, Seaborn
+- 🌱 Currently learning: Keras, Neural Networks
 - 📫 Reach me: alyssaflusser@gmail.com | linkedin.com/in/alyssa-flusser
 
 ---
