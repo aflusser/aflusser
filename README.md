@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Alyssa Flusser | Artificial Intelligence Engineer
+# Alyssa Flusser | SWE & AI Engineer
 
 Aspiring AI Engineer with hands-on experience in analyzing data, machine learning, and AI-driven solutions.
 I focus on **clean code, scalable solutions, and continuous learning.**
