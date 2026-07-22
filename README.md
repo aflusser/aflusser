@@ -54,17 +54,14 @@ I focus on **clean code, scalable solutions, and continuous learning.**
 
 ### 👥 Leadership & Involvement
 
-- **Serve State: Students For Philanthropy** - _PR & Recruitment Chair (May 2026-Present)_:
+**Serve State: Students For Philanthropy** - _PR & Recruitment Chair (May 2026-Present)_:
+- Manage digital presence for 100+ members, produce promotional materials, and drove recruitment initiatives
 
-    Manage digital presence for 100+ members, produce promotional materials, and drove recruitment initiatives
+**Girls Who Code** - _Outreach Committee (Sept 2025-Present)_:
+- Promote membership through newsletter, social media, and campus outreach to increase event visibility
 
-- **Girls Who Code** - _Outreach Committee (Sept 2025-Present)_:
-
-    Promote membership through newsletter, social media, and campus outreach to increase event visibility
-
-- **THON** - _Safety Committee (Oct 2025-Feb 2026)_:
-
-    Enforced compliance standards and advised on risk mitigation for $18M+ fundraiser with 16,000+ attendees
+**THON** - _Safety Committee (Oct 2025-Feb 2026)_:
+- Enforced compliance standards and advised on risk mitigation for $18M+ fundraiser for pediatric cancer with 16,000+ attendees
 
 ---
 
