@@ -34,7 +34,7 @@ I focus on **clean code, scalable solutions, and continuous learning.**
 
 ### 🚀 Key Project
 
-#### [**Airbnb NYC Pricing Prediction - Capstone Project**](https://github.com/aflusser/My-eCornell-Portfolio/blob/main/Capstone.ipynb)
+#### [**Airbnb NYC Pricing Prediction - Capstone Project**](https://github.com/aflusser/ML-capstone/blob/main/Capstone.ipynb)
 **Problem:** Predict whether an Airbnb listing in New York City will be high-priced (at or above 75th percentile) to support real estate investment decisions for Trove Analytics.
 
 **Solution:** Implemented a comprehensive machine learning pipeline following the complete ML lifecycle:
@@ -46,7 +46,7 @@ I focus on **clean code, scalable solutions, and continuous learning.**
 
 **Technologies:** Python | Jupyter Notebook | Pandas | NumPy | Scikit-Learn | TensorFlow/Keras | Matplotlib | Seaborn
 
-**Repository:** [My-eCornell-Portfolio](https://github.com/aflusser/My-eCornell-Portfolio) - Contains full capstone notebook with EDA, model training, and neural network implementation
+**Repository:** [My-eCornell-Portfolio](https://github.com/aflusser/ML-capstone) - Contains full capstone notebook with EDA, model training, and neural network implementation
 
 **Impact:** Delivers actionable insights for investment decisions by accurately identifying high-value properties in NYC's competitive rental market.
 
