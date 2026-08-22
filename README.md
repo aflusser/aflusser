@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 <!--
-**aflusser/aflusser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -28,7 +24,9 @@ I focus on **clean code, scalable solutions, and continuous learning.**
 
 ### Technial Skills
 - **Languages:** Python | Java | JavaScript | C | C++
-- **ML & Tools:** NumPy | Pandas | SciPy | Matplotlib | Seaborn | Scikit-Learn | Keras | Jupyter Notebook | Streamlit
+- **Libraries & Frameworks:** NumPy | Pandas | Scikit-Learn | Matplotlib | Seaborn | LangChain | LangGraph | Streamlit
+- **Tools & Platforms:** Jupyter Notebook | OpenAI Agents SDK
+- **Concepts:** RAG | Agentic Workflows | Machine Learning | LLM Integration
 
 ---
 
@@ -55,7 +53,7 @@ I focus on **clean code, scalable solutions, and continuous learning.**
 ### 👥 Leadership & Involvement
 
 **Serve State: Students For Philanthropy** - _PR & Recruitment Chair (May 2026-Present)_:
-- Manage digital presence for 100+ members, produce promotional materials, and drove recruitment initiatives
+- Manage digital presence for 100+ members of this service organization, produce promotional materials, and drive recruitment initiatives
 
 **Girls Who Code** - _Outreach Committee (Sept 2025-Present)_:
 - Promote membership through newsletter, social media, and campus outreach to increase event visibility
